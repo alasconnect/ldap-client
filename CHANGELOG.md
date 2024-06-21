@@ -1,5 +1,13 @@
 # LDAP Client Changelog
 
+## [0.4.3](https://github.com/alasconnect/ldap-client/tree/0.4.3) (2024-06-21)
+
+[Full Changelog](https://github.com/alasconnect/ldap-client/compare/0.4.2...0.4.3)
+
+**Fixed bugs:**
+
+- Change dependency from "connection" to "crypton-connection" [\#11](https://github.com/alasconnect/ldap-client/pull/11) ([pmiddend](https://github.com/pmiddend))
+
 ## [0.4.2](https://github.com/alasconnect/ldap-client/tree/0.4.2) (2021-10-07)
 
 [Full Changelog](https://github.com/alasconnect/ldap-client/compare/0.4.1...0.4.2)

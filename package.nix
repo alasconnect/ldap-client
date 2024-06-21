@@ -4,7 +4,7 @@
 }:
 mkDerivation {
   pname = "ldap-client";
-  version = "0.4.2";
+  version = "0.4.3";
   src = ./.;
   buildDepends = [
     asn1-encoding asn1-types async base bytestring connection
