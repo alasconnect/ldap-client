@@ -51,16 +51,16 @@ library
     Ldap.Client.Modify
     Ldap.Client.Search
   build-depends:
-      asn1-encoding >= 0.9
-    , asn1-types    >= 0.3
+      asn1-encoding         >= 0.9
+    , asn1-types            >= 0.3
     , async
-    , base          >= 4.6 && < 5
+    , base                  >= 4.6 && < 5
     , bytestring
-    , connection    >= 0.2
+    , crypton-connection    >= 0.2
     , containers
     , fail
-    , network       >= 2.6
-    , semigroups    >= 0.16
+    , network               >= 2.6
+    , semigroups            >= 0.16
     , stm
     , text
 
